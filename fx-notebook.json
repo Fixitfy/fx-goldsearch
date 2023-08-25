@@ -2,6 +2,7 @@
   "version": 1.0,
   "changelog": [
     "Book confusion fixed ",
+    "Added custom framework option (The 'frameworks' folder has been added. You can change the framework via fxmanifest or edit it yourself.)",
     "More optimized code"
   ]
 }
