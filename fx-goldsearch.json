@@ -1,8 +1,8 @@
 {
   "version": 1.0,
   "changelog": [
-    "Fixed UI Lag",
-    "Fixed Some Lag",
-    "Fixed some bugs"
+    "New event command added.",
+    "More optimized code.",
+    "Some bugs in it have been fixed."
   ]
 }
