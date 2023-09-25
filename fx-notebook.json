@@ -1,7 +1,8 @@
 {
   "version": 1.5,
   "changelog": [
-    "Button has been added for the user to set a title for each book",
-    "Fixed bug found on rsg-core"
+    "Fixed an error when stacking books on top of each other.",
+    "Added label feature for business books.",
+    "Rsg framework has been updated."
   ]
 }
