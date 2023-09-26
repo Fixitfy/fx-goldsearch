@@ -1,8 +1,9 @@
 {
-  "version": 1.1,
+  "version": 2.0,
   "changelog": [
     "Fixed an error when stacking books on top of each other.",
     "Added label feature for business books.",
-    "Rsg framework has been updated."
+    "Rsg framework has been updated.",
+    "Perform the setup shared on Discord."
   ]
 }
