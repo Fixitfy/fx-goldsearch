@@ -1,6 +1,8 @@
 {
-  "version": 1.1,
+  "version": 1.2,
   "changelog": [
-    "Bug fixed in serverside."
+    "Added delete the bucket after filling the bucket with water.",
+    "Update c.lua",
+    "version update"
   ]
 }
