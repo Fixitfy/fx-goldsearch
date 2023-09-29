@@ -3,6 +3,7 @@
   "changelog": [
     "Added delete the bucket after filling the bucket with water.",
     "Update c.lua",
+    "Update framework/rsgcore.lua",
     "version update"
   ]
 }
