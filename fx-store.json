@@ -1,6 +1,7 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "changelog": [
-    "Bla Bla Bla."
+    "Create as many stores as you want.",
+    "Change the left page of the store you created in the book by adding a link to the config file."
   ]
 }
