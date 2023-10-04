@@ -1,9 +1,8 @@
 {
-  "version": 2.0,
+  "version": 2.1,
   "changelog": [
-    "Fixed an error when stacking books on top of each other.",
-    "Added label feature for business books.",
-    "Rsg framework has been updated.",
-    "Perform the setup shared on Discord."
+      "Fixed name disappearing bug.",
+      "Fixed freezing issue when loading image. Now paste links directly.",
+      "update all files except config",
   ]
 }
