@@ -1,6 +1,6 @@
 {
-  "version": 1.1,
+  "version": 1.2,
   "changelog": [
-    "Added Custom Blip System. Config.lua"
+    "Fixed the issue of players catching more than one fish according to the number of fishing rods."
   ]
 }
