@@ -1,6 +1,10 @@
 {
-  "version": 1.2,
+  "version": 1.3,
   "changelog": [
-    "Fixed the issue of players catching more than one fish according to the number of fishing rods."
+    "Known bugs have been fixed.",
+    "Added fish event feature.",
+    "If you type fishEvent 2 in the server command line, players will catch 2x fish and earn 2x exp. You can make the number 2 3-4-5 if you want.",
+    "Now when you catch a fish, the name of the fish and how many xp it gives will be written. Config.FishLabels",
+    "When you use the fish in your inventory, you will enter an animation showing the fish."
   ]
 }
