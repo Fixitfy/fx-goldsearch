@@ -1,9 +1,6 @@
 {
-  "version": 1.3,
+  "version": 1.4,
   "changelog": [
-    "You can now distinguish between selling and buying shops. One store can only sell products while another store can buy products.",
-    "You can throw your own queries from config before interacting with the store. Config.lua",
-    "Store to set animations or scenarios for shop peds.",
-    "Update all files."
+    "Added the ability to set when shops open and close.",
   ]
 }
