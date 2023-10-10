@@ -1,6 +1,6 @@
 {
-  "version": 1.3,
+  "version": 1.4,
   "changelog": [
-    "A minor bug related to the profession has been fixed. Just update the s/s.lua file.",
+    "Added promptdistance for stash opening distance. Config.Storage",
   ]
 }
