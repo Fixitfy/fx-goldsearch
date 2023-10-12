@@ -1,6 +1,6 @@
 {
   "version": 1.4,
   "changelog": [
-    "Added the ability to set when shops open and close.",
+    "Fixed an issue with pads spawning more than once.",
   ]
 }
