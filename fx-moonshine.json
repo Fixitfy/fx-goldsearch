@@ -4,6 +4,7 @@
     "Minigame feature has been added, you can switch it on and off.",
     "If the minigame fails, the explosion feature will occur depending on the luck factor.",
     "Added job feature to remove moonshine disttiler. For example, if you have the sheriff job, you will be able to remove any distiller",
+    "Now, even if you exit the server after producing moonshine or restart the server, production will continue. You can extend the time as long as you want.",
     "You can customise all settings."
   ]
 }
