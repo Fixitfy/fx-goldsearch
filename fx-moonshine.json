@@ -1,6 +1,9 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "changelog": [
-    "Bla bla bla.",
+    "Minigame feature has been added, you can switch it on and off.",
+    "If the minigame fails, the explosion feature will occur depending on the luck factor.",
+    "Added job feature to remove moonshine disttiler. For example, if you have the sheriff job, you will be able to remove any distiller",
+    "You can customise all settings."
   ]
 }
