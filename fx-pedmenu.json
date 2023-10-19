@@ -1,6 +1,7 @@
 {
-  "version": 1.1,
+  "version": 1.2,
   "changelog": [
-      "Fixed rsgcore issues."
+      "Fixed Take Ped issues",
+      "A player without a pad will not see the settings button"
   ]
 }
