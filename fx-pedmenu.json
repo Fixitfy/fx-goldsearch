@@ -1,7 +1,7 @@
 {
   "version": 1.3,
   "changelog": [
-      "Fixed spawn ped healt and stamine issues",
+      "Fixed spawn ped healt and stamina issues",
       "Update c.lua"
   ]
 }
