@@ -1,7 +1,7 @@
 {
-  "version": 1.2,
+  "version": 1.3,
   "changelog": [
-      "Fixed Take Ped issues",
-      "A player without a pad will not see the settings button"
+      "Fixed spawn ped healt and stamine issues",
+      "Update c.lua"
   ]
 }
