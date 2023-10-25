@@ -1,6 +1,12 @@
 {
-  "version": 1.4,
+  "version": 1.5,
   "changelog": [
-    "Fixed moonshine machines not showing up after restarting."
+    "You can now set the maximum machine limit that a player can install in the configuration file.",
+    "You can now blow up other people's machines if you have the required item.",
+    "You can remove a machine if you have the job in the configuration file to remove it. If you installed the machine, you can uninstall it if you allowed it to be uninstalled in the configuration file.",
+    "To blow up a machine, allow it in the configuration file, then have the required item so you can blow up machines that others have installed.",
+    "When the blow up starts you will receive a notification and the countdown will start.",
+    "You will now be able to produce on more than one machine.",
+    "Update all files"
   ]
 }
