@@ -1,6 +1,7 @@
 {
-  "version": 1.5,
+  "version": 1.6,
   "changelog": [
-    "Fixed an issue with pads spawning more than once.",
+    "Buying and selling log system has been added.",
+    "Update Config and s.lua"
   ]
 }
