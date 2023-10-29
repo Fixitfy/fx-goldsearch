@@ -1,8 +1,8 @@
 {
-  "version": 2.1,
+  "version": 2.2,
   "changelog": [
-      "Fixed name disappearing bug.",
-      "Fixed freezing issue when loading image. Now paste links directly.",
-      "update all files except config",
+    "1920 pixel resolution fixed.",
+    "RedemRP:Reboot framework support added.",
+    "Update the ui folder" 
   ]
 }
