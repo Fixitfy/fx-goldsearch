@@ -1,9 +1,7 @@
 {
-  "version": 1.6,
+  "version": 1.7,
   "changelog": [
-    "All known bugs fixed",
-    "Smoke will now come out of the machine during production, visible from everywhere.",
-    "You can change all settings in the config.lua file",
+    "added adjusting the visibility distance of smoke emitted during production.",
     "Update all files"
   ]
 }
