@@ -1,7 +1,7 @@
 {
-  "version": 1.7,
+  "version": 1.8,
   "changelog": [
-    "added adjusting the visibility distance of smoke emitted during production.",
-    "Update all files"
+    "Rsgcore bug fixed.",
+    "Update rsgcore.lua"
   ]
 }
