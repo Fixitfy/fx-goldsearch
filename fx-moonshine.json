@@ -1,7 +1,7 @@
 {
-  "version": 1.8,
+  "version": 1.9,
   "changelog": [
-    "Rsgcore bug fixed.",
-    "Update rsgcore.lua"
+    "added Config.MoonshineInteractionKey property to the configuration file so you can edit the keys that appear during interaction",
+    "Update c.lua and config.lua"
   ]
 }
