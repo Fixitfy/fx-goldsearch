@@ -2,5 +2,6 @@
   "version": 1.6,
   "changelog": [
     "Fixed weapon proliferation and other issues in the job stash.",
+    "Update s/s.lua"
   ]
 }
