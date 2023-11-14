@@ -1,7 +1,7 @@
 {
-  "version": 1.6,
+  "version": 1.7,
   "changelog": [
-    "Buying and selling log system has been added.",
-    "Update Config and s.lua"
+    "Fixed a bug in store opening and closing times.",
+    "Update c.lua"
   ]
 }
