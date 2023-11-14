@@ -1,7 +1,8 @@
 {
-  "version": 1.3,
+  "version": 1.4,
   "changelog": [
-      "Fixed spawn ped health and stamina issues",
-      "Update c.lua"
+      "On animal peds you can now attack.",
+      "In bird peds you can now fly",
+      "Update c.lua and s.lua"
   ]
 }
