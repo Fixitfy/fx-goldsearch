@@ -1,8 +1,7 @@
 {
-  "version": 2.2,
+  "version": 2.3,
   "changelog": [
-    "1920 pixel resolution fixed.",
-    "RedemRP:Reboot framework support added.",
-    "Update the ui folder" 
+    "Added multi-job requirement and job level settings for access to books",
+    "Update s.lua and config.lua (modifed Config.Jobs.job)" 
   ]
 }
