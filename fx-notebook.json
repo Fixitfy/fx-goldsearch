@@ -1,7 +1,7 @@
 {
-  "version": 2.3,
+  "version": 2.4,
   "changelog": [
-    "Added multi-job requirement and job level settings for access to books",
-    "Update s.lua and config.lua (modifed Config.Jobs.job)" 
+    "Fixed multi-job issue.",
+    "Update s.lua" 
   ]
 }
