@@ -1,9 +1,7 @@
 {
-  "version": 1.4,
+  "version": 1.5,
   "changelog": [
-      "On animal peds you can now attack.",
-      "In bird peds you can now fly",
-      "Fixed transfer of player health and stamina when picking up peds",
-      "Update c.lua and s.lua"
+      "Fixed bug in 'Take Ped' function",
+      "update c.lua and s.lua"
   ]
 }
