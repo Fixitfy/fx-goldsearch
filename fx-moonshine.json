@@ -1,7 +1,8 @@
 {
-  "version": 1.9,
+  "version": 2.0,
   "changelog": [
-    "added Config.MoonshineInteractionKey property to the configuration file so you can edit the keys that appear during interaction",
-    "Update c.lua and config.lua"
+    "Fixed an issue where machines were deleted after players logged out.",
+    "Added a job requirement to craft an item",
+    "Update all files"
   ]
 }
