@@ -1,7 +1,7 @@
 {
-  "version": 2.4,
+  "version": 2.5,
   "changelog": [
-    "Fixed multi-job issue.",
-    "Update s.lua" 
+    "Fixed rsgcore quill issue.",
+    "Update framework/rsgcore.lua" 
   ]
 }
