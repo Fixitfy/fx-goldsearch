@@ -1,7 +1,8 @@
 {
-  "version": 2.5,
+  "version": 2.6,
   "changelog": [
-    "Fixed rsgcore quill issue.",
-    "Update framework/rsgcore.lua" 
+    "Page cut has been added. When you cut the page, it will give you a note sheet in your inventory.",
+    "Check out our Fixitfy Discord for more information.",
+    "Update all files. Check fx-notebook sql add inventory itemsimg/notepaper"
   ]
 }
