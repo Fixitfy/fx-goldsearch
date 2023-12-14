@@ -1,8 +1,7 @@
 {
-  "version": 2.0,
+  "version": 2.1,
   "changelog": [
-    "Fixed an issue where machines were deleted after players logged out.",
-    "Added a job requirement to craft an item",
-    "Update all files"
+    "a minor client-side bug has been fixed.",
+    "Update c/c.lua"
   ]
 }
