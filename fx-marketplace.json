@@ -1,11 +1,8 @@
 
 {
-  "version": 1.1,
+  "version": 1.2,
   "changelog": [
-      "Interacting with peds and objects has been added.",
-      "Blip settings added.",
-      "Added profession queries to the configuration file.",
-      "Check config.lua",
-      "Update all files"
+      "Fixed the tax issue in the auction.",
+      "Update s/s.lua"
   ]
 }
