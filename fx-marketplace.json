@@ -3,6 +3,7 @@
   "version": 1.3,
   "changelog": [
       "Fixed an issue where purchasing an item would cost more money than the stated amount.",
-      "Update s/s.lua ui folder"
+      "Update s/s.lua",
+      "Update ui/assets/main.js"
   ]
 }
