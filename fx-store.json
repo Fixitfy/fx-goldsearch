@@ -1,7 +1,7 @@
 {
-  "version": 1.7,
+  "version": 1.8,
   "changelog": [
-    "Fixed a bug in store opening and closing times.",
-    "Update c.lua"
+    "Fixed rsgcore issue.",
+    "Update all files"
   ]
 }
