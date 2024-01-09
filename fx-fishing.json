@@ -1,7 +1,7 @@
 {
-  "version": 1.4,
+  "version": 1.5,
   "changelog": [
-    "Added the ability to add job requirements for blacksmiths.",
-    "Update c.lua, s.lua, frameworks and config"
+    "Added the 'Config.FishingrodMovement' property, which allows you to switch on and off the function that turns the fishing rod left and right when a fish comes in",
+    "Update c.lua, and add config/Config.FishingrodMovement = true"
   ]
 }
