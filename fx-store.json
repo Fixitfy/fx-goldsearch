@@ -1,7 +1,7 @@
 {
-  "version": 1.8,
+  "version": 1.9,
   "changelog": [
-    "Fixed rsgcore issue.",
+    "You can now sell weapons in the FX-Store.",
     "Update all files"
   ]
 }
