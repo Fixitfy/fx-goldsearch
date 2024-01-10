@@ -3,6 +3,6 @@
   "changelog": [
     "Added a small property about whether or not to delete fish bait. Check Fixitfy Discord",
     "If true, the bait will disappear when the fish escapes, if false, it will not disappear.",
-    "Added config.lua Config.RemoveBaitOnFailed"
+    "Update c/c.lua and config.lua/Config.RemoveBaitOnFailed"
   ]
 }
