@@ -1,6 +1,8 @@
 {
-  "version": 1.6,
+  "version": 1.7,
   "changelog": [
-    "A new minigame. Update all your files. And check out our discord update channel.",
+    "Added a small property about whether or not to delete fish bait. Check Fixitfy Discord",
+    "If true, the bait will disappear when the fish escapes, if false, it will not disappear.",
+    "Added config.lua Config.RemoveBaitOnFailed"
   ]
 }
