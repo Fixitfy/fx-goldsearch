@@ -1,6 +1,8 @@
 {
-  "version": 1.2,
+  "version": 1.3,
   "changelog": [
-    "Known bugs fixed."
+    "Multiple coordinates and multiple blip feature for special craft books.",
+    "You can now put a custom login logo on each book. For example, add a special design to the craft book for doctors. It's very easy.",
+    "Check Fixitfy Discord update channel"
   ]
 }
