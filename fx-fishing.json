@@ -1,8 +1,7 @@
 {
-  "version": 1.7,
+  "version": 1.8,
   "changelog": [
-    "Added a small property about whether or not to delete fish bait. Check Fixitfy Discord",
-    "If true, the bait will disappear when the fish escapes, if false, it will not disappear.",
-    "Update c/c.lua and config.lua/Config.RemoveBaitOnFailed"
+    "Fixed rsg-core fishingrod description",
+    "New files RSGCORE-SETUP.md."
   ]
 }
