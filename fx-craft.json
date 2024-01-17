@@ -1,7 +1,8 @@
 {
-  "version": 1.4,
+  "version": 1.5,
   "changelog": [
-    "A new variable 'ItemAmount' has been added to specify the item amount in the configuration file.",
-    "Update all files."
+    "Added webhook log (s/opensource.lua).",
+    "Added 'dontremove' option for requiredItems to be deleted (if true, the item will not be deleted)",
+    "Update all files"
   ]
 }
