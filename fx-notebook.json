@@ -1,8 +1,7 @@
 {
-  "version": 2.6,
+  "version": 2.7,
   "changelog": [
-    "Page cut has been added. When you cut the page, it will give you a note sheet in your inventory.",
-    "Check out our Fixitfy Discord for more information.",
-    "Update all files. Check fx-notebook sql add inventory itemsimg/notepaper"
+    "The problem of cutting the page with scissors has been fixed.",
+    "Check out our Fixitfy Discord for more information."
   ]
 }
