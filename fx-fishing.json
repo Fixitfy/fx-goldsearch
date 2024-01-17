@@ -1,7 +1,9 @@
 {
-  "version": 1.8,
+  "version": 1.9,
   "changelog": [
-    "Fixed rsg-core fishingrod description",
-    "New files RSGCORE-SETUP.md."
+    "Fixed rsg-core issues",
+    "New file s/command.lua",
+    "New Config.AdminFishingRodLvl",
+    "New Locale :notadmin:"
   ]
 }
