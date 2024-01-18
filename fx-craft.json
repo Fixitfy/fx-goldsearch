@@ -1,8 +1,8 @@
 {
-  "version": 1.5,
+  "version": 1.6,
   "changelog": [
-    "Added webhook log (s/opensource.lua).",
-    "Added 'dontremove' option for requiredItems to be deleted (if true, the item will not be deleted)",
-    "Update all files"
+    "During production, the number of units you will produce will be multiplied by the production time. If you make this true",
+    "Added Config.CraftTimeStack",
+    "Update s/s.lua and config.lua"
   ]
 }
