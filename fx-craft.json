@@ -1,8 +1,7 @@
 {
-  "version": 1.6,
+  "version": 1.7,
   "changelog": [
-    "During production, the number of units you will produce will be multiplied by the production time. If you make this true",
-    "Added Config.CraftTimeStack",
-    "Update s/s.lua and config.lua"
+    "Fixed lvl progressbar.",
+    "All files except config.lua"
   ]
 }
