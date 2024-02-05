@@ -1,5 +1,5 @@
 {
-  "version": 1.5,
+  "version": "1.5",
   "changelog": [
       "Fixed bug in 'Take Ped' function",
       "update c.lua and s.lua"
