@@ -1,5 +1,5 @@
 {
-  "version": 1.7,
+  "version": "1.7",
   "changelog": [
     "Fixed the serial number of weapons in the stash not showing up.",
     "Update s/s.lua"
