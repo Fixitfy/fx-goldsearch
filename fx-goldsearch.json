@@ -1,5 +1,5 @@
 {
-  "version": 1.3,
+  "version": "1.3",
   "changelog": [
     "Fixed an issue where machines were deleted after players logged out.",
     "Update c.lua"
