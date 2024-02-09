@@ -1,9 +1,8 @@
 
 {
-  "version": "1.3",
+  "version": "1.4",
   "changelog": [
-      "Fixed an issue where purchasing an item would cost more money than the stated amount.",
+      "Fixed your money not being refunded when there was a high bid on the auction.",
       "Update s/s.lua",
-      "Update ui/assets/main.js"
   ]
 }
