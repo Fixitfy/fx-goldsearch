@@ -1,7 +1,7 @@
 {
-  "version": "2.1",
+  "version": "2.2",
   "changelog": [
-    "a minor client-side bug has been fixed.",
+    "Fixed annoying text on the console. It will no longer spam.",
     "Update c/c.lua"
   ]
 }
