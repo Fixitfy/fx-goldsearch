@@ -1,7 +1,6 @@
 {
-  "version": "1.7",
+  "version": "1.8",
   "changelog": [
-    "Fixed lvl progressbar.",
-    "All files except config.lua"
+    "The error that occurs when receiving the product in multiple productions has been fixed."
   ]
 }
