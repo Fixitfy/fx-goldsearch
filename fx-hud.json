@@ -1,6 +1,10 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "changelog": [
+    "Fixed your health decreasing for a few seconds when you first enter the game and the screen effect issue.",
+    "ReturnItem feature has been added after item usage.",
+    "Added screen effect and setpedrunkness settings for alcohol or different types of items.",
+    "Saltychat has been made compatible.",
     "Update all files"
   ]
 }
