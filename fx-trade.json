@@ -1,6 +1,9 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "changelog": [
-    "Bla bla bla.",
+    "Fixed the issue of being able to trade while dead.",
+    "Added distance query when sending a trade request.",
+    "Fixed problems with RSG-Core.",
+    "Update all files"
   ]
 }
