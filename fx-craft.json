@@ -1,7 +1,7 @@
 {
-  "version": "1.8",
+  "version": "1.9",
   "changelog": [
-    "The error that occurs when receiving the product in multiple productions has been fixed.",
-    "Update ui folder"
+    "Fixed xp earned in multi production to remain the same as in single production..",
+    "Update s/s.lua"
   ]
 }
