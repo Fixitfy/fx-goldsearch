@@ -1,16 +1,11 @@
 {
-  "version": "1.2",
+  "version": "1.3",
   "changelog": [
-    "Fixed a bug in Consumables.",
-    "Fixed horse level not showing up.",
-    "Added setting to hide Hud elements if their value is 0 (Config.HudAutoHide)",
-    "When you turn off your Saltychat microphone, your microphone will be colored red.",
-    "Flies will fly on you when you are very dirty (Config.HudSettings.Dirty.flyEffect)",
-    "Your stamina will decrease more when you run fast (Config.HudSettings.Stamina.reduceStaminaOnRunning)",
-    "When you run out of stamina, your health will be reduced (Config.HudSettings.Stamina. removeHealthOnNoStamina )",
-    "You will now be able to easily change players' default settings as a server owner.",
-    "Correction made for 3840px screens",
-    "New Menu Background.",
-    "A general optimisation was made."
+    "RSG-Core issues have been fixed. Consumables system.",
+    "Redesigned Menu and Notifications",
+    "Fixed the problem of not showing the logo.",
+    "Fixed the problem with the On/Show menu.",
+    "All known bugs fixed.",
+    "Update All Files/except consumable.lua"
   ]
 }
