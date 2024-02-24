@@ -1,0 +1,8 @@
+
+{
+  "version": "1.4",
+  "changelog": [
+      "Fixed your money not being refunded when there was a high bid on the auction.",
+      "Update s/s.lua",
+  ]
+}
