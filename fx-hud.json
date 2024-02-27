@@ -1,12 +1,10 @@
 {
-  "version": "1.4",
+  "version": "1.5",
   "changelog": [
-    "All known bugs have been fixed.",
-    "Fixed the money problem in RSG-Core.",
-    "Item images have been added.",
-    "consumables.lua has been edited.",
-    "sql file updated. New items",
-    "Added New Config.DisableLevel",
-    "Update All Files"
+    "New code has been added to the Readme.md file for RSG-Core",
+    "The ability to change the location of notifications has been added",
+    "The standard positions of ID,CASH,GOLD,HOUR elements have been changed. See the picture in the example",
+    "The money problem has been fixed.",
+    "Update all files. No need to replace Consumables.lua and config.lua"
   ]
 }
