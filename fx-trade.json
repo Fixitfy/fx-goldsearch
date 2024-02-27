@@ -1,9 +1,8 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "changelog": [
-    "Fixed the issue of being able to trade while dead.",
-    "Added distance query when sending a trade request. Check Config",
-    "Fixed problems with RSG-Core.",
-    "Update all files"
+    "Fixed RSG-Core weapon serial number issue.",
+    "Fixed money issue.",
+    "Fixed known issues."
   ]
 }
