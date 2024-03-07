@@ -1,7 +1,7 @@
 {
   "version": "1.1",
   "changelog": [
-      "Added Config.CanInteract",
-      "Update config and server files"
+      "Config.CanInteract added. You can set conditions for players to receive or send requests (For example, are they over 18?).",
+      "Update config and s/s files"
   ]
 }
