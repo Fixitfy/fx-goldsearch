@@ -1,10 +1,7 @@
 {
-  "version": "1.5",
+  "version": "1.6",
   "changelog": [
-    "New code has been added to the Readme.md file for RSG-Core",
-    "The ability to change the location of notifications has been added",
-    "The standard positions of ID,CASH,GOLD,HOUR elements have been changed. See the picture in the example",
-    "The money problem has been fixed.",
-    "Update all files. No need to replace Consumables.lua and config.lua"
+    "Fixed problems with the temperature and coldness display. Added Config.DegreeUnit setting to choose between Celsius and Fahrenheit.",
+    "Update all files. No need to replace Consumables.lua"
   ]
 }
