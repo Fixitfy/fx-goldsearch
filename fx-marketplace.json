@@ -1,8 +1,9 @@
 
 {
-  "version": "1.4",
+  "version": "1.5",
   "changelog": [
-      "Fixed your money not being refunded when there was a high bid on the auction.",
-      "Update s/s.lua",
+      "Fixed product duplication issue in product publishing.",
+      "Fixed the problem that the product name does not change when selecting a product",
+      "Update all files. except Config.lua"
   ]
 }
