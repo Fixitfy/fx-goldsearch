@@ -1,7 +1,8 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "changelog": [
-      "Config.CanInteract added. You can set conditions for players to receive or send requests (For example, are they over 18?).",
-      "Update config and s/s files"
+      "Added distance control after sending a request.",
+      "You will not be able to send requests to dead players or NPCs.",
+      "Update all files"
   ]
 }
