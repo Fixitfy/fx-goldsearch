@@ -1,7 +1,7 @@
 {
-  "version": "1.6",
+  "version": "1.7",
   "changelog": [
-    "Fixed problems with the temperature and coldness display. Added Config.DegreeUnit setting to choose between Celsius and Fahrenheit.",
-    "Update all files. No need to replace Consumables.lua"
+    "Added bandage item and animation.",
+    "Update consumables.lua and new item bandage.png"
   ]
 }
