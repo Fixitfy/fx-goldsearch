@@ -1,7 +1,10 @@
 {
-  "version": "1.9",
+  "version": "2.0",
   "changelog": [
-    "You can now sell weapons in the FX-Store.",
-    "Update all files"
+    "NPC distance feature added.",
+    "Added config pedSpawnDistance", 
+    "Multiple coordinates feature has been added. For example, you will be able to duplicate General Stores, so you will get shorter codes.",
+    "Removed config blipcoord variable.",
+    "Update c.lua and config.lua"
   ]
 }
