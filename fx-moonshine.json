@@ -1,7 +1,9 @@
 {
-  "version": "2.2",
+  "version": "2.3",
   "changelog": [
-    "Fixed annoying text on the console. It will no longer spam.",
-    "Update c/c.lua"
+    "Town' control has been added.",
+    "Added DestroyProp to temporarily spawn if a player blows up the moonshine machine.",
+    "Added the number of active players with the required job to make Moonshine.",
+    "Update all files",
   ]
 }
