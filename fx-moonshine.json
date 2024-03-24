@@ -4,6 +4,8 @@
     "Town' control has been added.",
     "Added DestroyProp to temporarily spawn if a player blows up the moonshine machine.",
     "Added the number of active players with the required job to make Moonshine.",
+    "Log system has been added.",
+    "New locale added.",
     "Update all files",
   ]
 }
