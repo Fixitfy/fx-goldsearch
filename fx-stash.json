@@ -1,7 +1,7 @@
 {
-  "version": "1.7",
+  "version": "1.8",
   "changelog": [
-    "Fixed the serial number of weapons in the stash not showing up.",
+    "Fixed job stash open error when someone drops out of game.",
     "Update s/s.lua"
   ]
 }
