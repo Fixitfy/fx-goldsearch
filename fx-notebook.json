@@ -1,6 +1,7 @@
 {
-  "version": "2.8",
+  "version": "2.9",
   "changelog": [
-    "When you click on the image button on the main page, the problem with entering the image link has been fixed. Now the links you copy over discord will work.",
+    "Fixed the problem that common books cannot be used when requiredJob = false property is set.",
+    "Update c/c.lua and s/s.lua"
   ]
 }
