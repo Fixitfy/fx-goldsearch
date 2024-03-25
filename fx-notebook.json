@@ -2,6 +2,6 @@
   "version": "2.9",
   "changelog": [
     "Fixed the problem that common books cannot be used when requiredJob = false property is set.",
-    "Update c/c.lua and s/s.lua"
+    "Update c.lua and s.lua"
   ]
 }
