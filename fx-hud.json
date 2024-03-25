@@ -2,6 +2,7 @@
   "version": "1.8",
   "changelog": [
     "Special display animation for volume level.",
+    "Added Config.VoiceRangeChangeUi",
     "Fixed multiple value issue on Cash and Gold"
   ]
 }
