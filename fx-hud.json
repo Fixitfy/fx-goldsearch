@@ -1,7 +1,7 @@
 {
-  "version": "1.7",
+  "version": "1.8",
   "changelog": [
-    "Added bandage item and animation.",
-    "Update consumables.lua and new item bandage.png"
+    "Special display animation for volume level.",
+    "Fixed multiple value issue on Cash and Gold"
   ]
 }
