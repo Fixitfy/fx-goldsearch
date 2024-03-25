@@ -1,10 +1,7 @@
 {
-  "version": "2.0",
+  "version": "2.1",
   "changelog": [
-    "NPC distance feature added.",
-    "Added config pedSpawnDistance", 
-    "Multiple coordinates feature has been added. For example, you will be able to duplicate General Stores, so you will get shorter codes.",
-    "Removed config blipcoord variable.",
-    "Update c.lua and config.lua"
+    "Fixed shops not staying open all the time.",
+    "Update c/c.lua"
   ]
 }
