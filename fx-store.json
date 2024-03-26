@@ -1,7 +1,7 @@
 {
-  "version": "2.1",
+  "version": "2.2",
   "changelog": [
-    "Fixed shops not staying open all the time.",
-    "Update c/c.lua"
+    "New design.",
+    "Update config.lua and ui folder"
   ]
 }
