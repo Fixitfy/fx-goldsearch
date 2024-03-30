@@ -1,7 +1,8 @@
 {
-  "version": "2.2",
+  "version": "2.3",
   "changelog": [
-    "New design.",
-    "Update config.lua and ui folder"
+    "Added moneytype",
+    "Known bugs fixed",
+    "Update all files except config.lua"
   ]
 }
