@@ -1,7 +1,14 @@
 {
-  "version": "1.9",
+  "version": "2.0",
   "changelog": [
-    "Fixed xp earned in multi production to remain the same as in single production.",
-    "Update s/s.lua"
+    "Limit the maximum number of times an item can be generated on the entire server in a restart. For example, players will only be able to produce 10 bandages in total. The stock will be replenished after the restart.",
+    "Added New Setting Config.ItemLimit",
+    "Added New Setting Config.OrderListLimit",
+    "Added New Setting Config.pedSpawnDistance",
+    "Added New Setting Config.CraftXPStack",
+    "Added New Locale orderfull",
+    "Added New Locale nostockforthisitem",
+    "Ped and blip system has been renewed.",
+    "Update all files"
   ]
 }
