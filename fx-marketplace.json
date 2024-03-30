@@ -1,9 +1,10 @@
 
 {
-  "version": "1.5",
+  "version": "1.6",
   "changelog": [
-      "Fixed product duplication issue in product publishing.",
-      "Fixed the problem that the product name does not change when selecting a product",
-      "Update all files. except Config.lua"
+      "Fixed the issue of entering 0.1 value in item selling and buying. You will no longer have such a problem.",
+      "Fixed some bugs in css.",
+      "Update s/s.lua",
+      "Update ui folder"
   ]
 }
