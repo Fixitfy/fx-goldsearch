@@ -1,8 +1,7 @@
 {
-  "version": "1.8",
+  "version": "1.9",
   "changelog": [
-    "Special display animation for volume level.",
-    "Added Config.VoiceRangeChangeUi",
-    "Fixed multiple value issue on Cash and Gold"
+    "Small update",
+    "Added a feature that allows an icon to appear over players' heads when they speak. Check out the updates channel on the Fixitfy discord"
   ]
 }
