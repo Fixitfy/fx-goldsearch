@@ -1,7 +1,8 @@
 {
-  "version": "1.9",
+  "version": "2.0",
   "changelog": [
-    "Small update",
-    "Added a feature that allows an icon to appear over players' heads when they speak. Check out the updates channel on the Fixitfy discord"
+    "Stamina issue fixed.",
+    "Fixed known issues.",
+    "Update c/c.lua"
   ]
 }
