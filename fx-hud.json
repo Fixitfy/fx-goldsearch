@@ -1,8 +1,10 @@
 {
-  "version": "2.0",
+  "version": "2.1",
   "changelog": [
-    "Stamina issue fixed.",
+    "Player Stamina and Horse Stamina issue fixed.",
     "Fixed known issues.",
-    "Update c/c.lua"
+    "Fixed onesync hud.",
+    "Add horse anim consumables.lua",
+    "Update all files"
   ]
 }
