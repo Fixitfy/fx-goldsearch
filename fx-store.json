@@ -1,7 +1,7 @@
 {
-  "version": "2.3",
+  "version": "2.4",
   "changelog": [
-    "Added moneytype",
+    "Fixed Sell Weapons issue",
     "Known bugs fixed",
     "Update all files except config.lua"
   ]
