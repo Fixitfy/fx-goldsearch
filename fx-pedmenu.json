@@ -1,8 +1,7 @@
 {
-  "version": "1.6",
+  "version": "1.7",
   "changelog": [
-      "Added Give Ped Discord Log",
-      "Added Take Ped Discord Log",
-      "Update s/s.lua and config.lua"
+      "Fixed Ped Health Problem",
+      "Update c/c.lua"
   ]
 }
