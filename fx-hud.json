@@ -1,7 +1,8 @@
 {
-  "version": "2.2",
+  "version": "2.3",
   "changelog": [
-    "Fixed known bugs.",
-    "Update ui folder and client side (c folder)"
+    "Known bugs have been fixed.",
+    "Hud will dynamically display an animated text that will be + or -. For example, when you drink water, +20 will be written above the water bar",
+    "Added sound feature to animations in consumbales.lua."
   ]
 }
