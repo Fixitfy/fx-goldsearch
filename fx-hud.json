@@ -1,9 +1,8 @@
 {
-  "version": "2.3",
+  "version": "2.4",
   "changelog": [
-    "Known bugs have been fixed.",
-    "Hud will dynamically display an animated text that will be + or -. For example, when you drink water, +20 will be written above the water bar",
-    "Added sound feature to animations in consumables.lua.",
-    "Update all files except config.lua"
+    "Fixed all stamina and health issues.",
+    "All reported issues have been fixed",
+    "Update c/c.lua and ui/assets/main.js"
   ]
 }
