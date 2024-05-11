@@ -1,8 +1,11 @@
 {
-  "version": "2.4",
+  "version": "2.5",
   "changelog": [
+    "----------v2.4------------",
     "Fixed all stamina and health issues.",
     "All reported issues have been fixed",
+    "----------v2.5------------",
+    "Fixed a reported bug in temperature and cold settings. Please update the following files and your fxmanifest.lua file",
     "Update c/c.lua and ui/assets/main.js"
   ]
 }
