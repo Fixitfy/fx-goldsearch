@@ -1,10 +1,11 @@
 
 {
-  "version": "1.6",
+  "version": "1.7",
   "changelog": [
-      "Fixed the issue of entering 0.1 value in item selling and buying. You will no longer have such a problem.",
-      "Fixed some bugs in css.",
-      "Update s/s.lua",
-      "Update ui folder"
+      "All reported problems have been fixed.",
+      "Players are prevented from duplicating items in item publishing by disconnecting from the internet.",
+      "Detailed log system has been added. Edit from config.lua",
+      "Fixed the problem with long text in the notification section. Update style.css",
+      "Update all files. Check Fixitfy discord"
   ]
 }
