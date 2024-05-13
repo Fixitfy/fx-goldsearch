@@ -3,6 +3,7 @@
   "version": "1.7",
   "changelog": [
       "All reported problems have been fixed.",
+      "Added new functions to config.lua to hideHud and showHud",
       "Players are prevented from duplicating items in item publishing by disconnecting from the internet.",
       "Detailed log system has been added. Edit from config.lua",
       "Fixed the problem with long text in the notification section. Update style.css",
