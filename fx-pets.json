@@ -8,6 +8,7 @@
     "Jobs requirement for purchasing pets has been added.",
     "Age at death and chance ratio added for each ped",
     "Hunger and thirst added a configuration code",
-    "Added the ability to assign a custom pad table for stores. So Blackwater store and valentine store can have different peds."
+    "Added the ability to assign a custom pad table for stores. So Blackwater store and valentine store can have different peds.",
+    "Custom prop added. fx-shed"
   ]
 }
