@@ -1,6 +1,13 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "changelog": [
-    "Bla bla bla..",
+    "Known bugs fixed",
+    "Log system has been added",
+    "Fixed the issue with birds crashing and dying",
+    "Pet purchase and Pet Out limit added",
+    "Jobs requirement for purchasing pets has been added.",
+    "Age at death and chance ratio added for each ped",
+    "Hunger and thirst added a configuration code",
+    "Added the ability to assign a custom pad table for stores. So Blackwater store and valentine store can have different peds."
   ]
 }
