@@ -1,11 +1,11 @@
 {
-  "version": "2.5",
+  "version": "2.6",
   "changelog": [
-    "----------v2.4------------",
-    "Fixed all stamina and health issues.",
-    "All reported issues have been fixed",
-    "----------v2.5------------",
-    "Fixed a reported bug in temperature and cold settings. Please update the following files and your fxmanifest.lua file",
-    "Update c/c.lua and ui/assets/main.js"
+    "----------v2.6------------",
+    "All known bugs fixed.",
+    "The bug we noticed in Gold core has been fixed",
+    "updated consumables.lua new goldcore values",
+    "Fixed an issue with the speech icon",
+    "Update all files"
   ]
 }
