@@ -1,11 +1,7 @@
 {
-  "version": "2.6",
+  "version": "2.7",
   "changelog": [
-    "----------v2.6------------",
-    "All known bugs fixed.",
-    "The bug we noticed in Gold core has been fixed",
-    "updated consumables.lua new goldcore values",
-    "Fixed an issue with the speech icon",
-    "Update all files"
+    "Fixed health issue in item uses.",
+    "Update C.lua"
   ]
 }
