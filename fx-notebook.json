@@ -1,7 +1,9 @@
 {
-  "version": "2.9",
+  "version": "3.0",
   "changelog": [
-    "Fixed the problem that common books cannot be used when requiredJob = false property is set.",
-    "Update c.lua and s.lua"
+    "Injecting malicious code is prevented.",
+    "Please make this update urgently.",
+    "If you know of any other bugs, please let us know via discord.",
+    "Update all files"
   ]
 }
