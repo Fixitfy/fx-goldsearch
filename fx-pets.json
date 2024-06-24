@@ -1,14 +1,8 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "changelog": [
+    "RSGCore issues fixed",
     "Known bugs fixed",
-    "Log system has been added",
-    "Fixed the issue with birds crashing and dying",
-    "Pet purchase and Pet Out limit added",
-    "Jobs requirement for purchasing pets has been added.",
-    "Age at death and chance ratio added for each ped",
-    "Hunger and thirst added a configuration code",
-    "Added the ability to assign a custom pad table for stores. So Blackwater store and valentine store can have different peds.",
-    "Custom prop added. fx-shed"
+    "Update all files"
   ]
 }
