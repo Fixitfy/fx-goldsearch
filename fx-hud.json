@@ -1,7 +1,8 @@
 {
-  "version": "2.7",
+  "version": "2.8",
   "changelog": [
-    "Fixed health issue in item uses.",
-    "Update C.lua"
+    "Fixed a bug for some users.",
+    "Important known bugs have been fixed..",
+    "Update All Files"
   ]
 }
