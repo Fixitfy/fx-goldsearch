@@ -1,8 +1,9 @@
 {
-  "version": "1.8",
+  "version": "1.9",
   "changelog": [
-    "All reported dupe methods have been fixed.",
-    "Update the UI folder.",
-    "If there is a bug you know, please contact us via discord. https://discord.fixitfy.com.tr"
+    "Fixed bugs in inputs that broke the system using + and - values.",
+    "You will no longer be able to remove an item from sale if your inventory is full.",
+    "Some minor bugs have been fixed.",
+    "Update all files."
   ]
 }
