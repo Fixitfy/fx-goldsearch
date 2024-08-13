@@ -1,8 +1,7 @@
 {
-  "version": "2.8",
+  "version": "2.9",
   "changelog": [
-    "Fixed a bug for some users.",
-    "Important known bugs have been fixed..",
-    "Update All Files"
+    "Fixed an issue where stamina would decrease too late while on a horse.",
+    "Update c/c.lua",
   ]
 }
