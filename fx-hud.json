@@ -2,6 +2,6 @@
   "version": "2.9",
   "changelog": [
     "Fixed an issue where stamina would decrease too late while on a horse.",
-    "Update c/c.lua",
+    "Update c/c.lua and fxmanifest.lua"
   ]
 }
