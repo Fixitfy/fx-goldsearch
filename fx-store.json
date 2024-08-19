@@ -1,8 +1,7 @@
 {
-  "version": "2.5",
+  "version": "2.6",
   "changelog": [
-    "Fixed Config.DisableShowingItemQuantities",
-    "Known bugs fixed",
-    "Update serverside"
+    "Fixed a defect using a - sign in the values entered in input. Player will no longer be able to use this exploit",
+    "Update ui.html and main.js"
   ]
 }
