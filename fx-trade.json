@@ -1,8 +1,7 @@
 {
-  "version": "1.3",
+  "version": "1.4",
   "changelog": [
-    "-1 value entry problem has been fixed.",
-    "New trade function has been added. You will now be able to select players when you open trade",
-    "Update all files",
+    "Fixed the issue that if the other player is full during trade and the trade is canceled, you will not be able to trade again.",
+    "Update client and server"
   ]
 }
