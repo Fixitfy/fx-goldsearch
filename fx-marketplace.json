@@ -1,9 +1,7 @@
 {
-  "version": "1.9",
+  "version": "2.0",
   "changelog": [
-    "Fixed bugs in inputs that broke the system using + and - values.",
-    "You will no longer be able to remove an item from sale if your inventory is full.",
-    "Some minor bugs have been fixed.",
-    "Update all files."
+    "Changing product quantities and prices through NuiDevtools was prevented. Update will be released today.",
+    "Update main.js."
   ]
 }
