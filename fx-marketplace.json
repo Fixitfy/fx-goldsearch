@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "changelog": [
-    "Changing product quantities and prices through NuiDevtools was prevented. Update will be released today.",
+    "Changing product quantities and prices through NuiDevtools was prevented.",
     "Update main.js."
   ]
 }
