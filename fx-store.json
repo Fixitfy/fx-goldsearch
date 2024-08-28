@@ -1,7 +1,7 @@
 {
-  "version": "2.6",
+  "version": "2.7",
   "changelog": [
-    "Fixed a defect using a - sign in the values entered in input. Player will no longer be able to use this exploit",
-    "Update ui.html and main.js"
+    "Changing product quantities and prices through NuiDevtools was prevented.",
+    "Update main.js"
   ]
 }
