@@ -1,7 +1,7 @@
 {
-  "version": "2.0",
+  "version": "2.1",
   "changelog": [
-    "Changing product quantities and prices through NuiDevtools was prevented.",
-    "Update main.js."
+    "Fixed bugs in categorization and search.",
+    "Update main.js./style.css/ui.html"
   ]
 }
