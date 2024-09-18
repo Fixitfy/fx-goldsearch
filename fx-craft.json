@@ -1,7 +1,9 @@
 {
-  "version": "2.1",
+  "version": "2.2",
   "changelog": [
-    "The error in quick purchases in Order Receipt has been fixed.",
-    "Update main.js"
+    "Fixed javascript error during production.",
+    "Framework system has been updated.",
+    "Add Config.Framework = “VORP” -- OR RSG to config.lua.",
+    "Update all files, just leave config.lua as it is and add the above."
   ]
 }
