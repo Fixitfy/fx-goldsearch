@@ -1,9 +1,15 @@
 {
-  "version": "2.2",
+  "version": "2.3",
   "changelog": [
-    "Fixed javascript error during production.",
-    "Framework system has been updated.",
-    "Add Config.Framework = “VORP” -- OR RSG to config.lua.",
-    "Update all files, just leave config.lua as it is and add the above."
+    "🔧 **Fixed:** An issue when entering a weapon requirement while crafting an item in the Vorp framework.",
+    "⏱️ **Improved:** The Craft Order category now has a live countdown timer for better tracking.",
+    "📖 **Updated:** Hiding the open book prompt when a book is opened.",
+    "",
+    "📂 **Updated Files:**",
+    "- `fxmanifest.lua`",
+    "- `main.js`",
+    "- `c` folder",
+    "- `s` folder",
+    "- `framework` folder"
   ]
 }
