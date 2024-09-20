@@ -4,7 +4,7 @@
     "🔧 Fixed: An issue when entering a weapon requirement while crafting an item in the Vorp framework.",
     "⏱️ Improved: The Craft Order category now has a live countdown timer for better tracking.",
     "📖 Updated: Hiding the open book prompt when a book is opened.",
-    "📂 #### Updated Files ####",
+    "📂 Updated Files ",
     "`fxmanifest.lua`",
     "`main.js`",
     "`c` folder",
