@@ -1,16 +1,12 @@
 {
-  "version": "2.3",
+  "version": "2.4",
   "changelog": [
-    "Fixed: An issue when entering a weapon requirement while crafting an item in the Vorp framework.",
-    "Improved: The Craft Order category now has a live countdown timer for better tracking.",
-    "Updated: Hiding the open book prompt when a book is opened.",
+    "Fixed: Important known bugs on the Server Side have been fixed.",
     "",
     "Updated Files ",
     "`fxmanifest.lua`",
-    "`main.js`",
-    "`c` folder",
-    "`s` folder",
-    "`versionchecker.lua`",
-    "`framework` folder"
+    "`s/s.lua`",
+    "`framework folder`",
+    "`You only need to update the function Notify section in config.lua (Only RSG CORE)`",
   ]
 }
