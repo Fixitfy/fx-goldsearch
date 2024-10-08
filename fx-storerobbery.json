@@ -1,6 +1,7 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "changelog": [
-    "bla bla bla."
+    "Fixed an issue where two players could start a heist at the same time.",
+    "Added multiple item requirement property for requiredItems"
   ]
 }
