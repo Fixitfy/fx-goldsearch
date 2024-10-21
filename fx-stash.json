@@ -1,7 +1,11 @@
 {
-  "version": "1.8",
+  "version": "2.0",
   "changelog": [
-    "Fixed job stash open error when someone drops out of game.",
-    "Update s/s.lua"
+    "Use the fx-stash script in the folder named New Version inside the folder. It will choose the framework automatically, you don't need to change anything.",
+    "Fixed an issue with multiple npc pads and props spawning",
+    "Fixed all reported bugs",
+    "RSG-CoreV2 issues",
+    "Backup the old folder and use the new one all files are updated. You will need to adapt your old config to the new config in order to pass this update without errors",
+    "Check the sql file that comes inside the folder and use the updated version"
   ]
 }
