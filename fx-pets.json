@@ -3,6 +3,7 @@
   "changelog": [
     "Fixed the issue where the theme set in Config.Theme was not loaded.",
     "Transitioned to a more stable tracking system for birds.",
+    "Add new Config.Locale = myPetBlip",
     "Update fxmanifest.lua and c/c.lua"
   ]
 }
