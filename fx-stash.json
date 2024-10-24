@@ -1,11 +1,8 @@
 {
-  "version": "2.0",
+  "version": "2.1",
   "changelog": [
-    "Use the fx-stash script in the folder named New Version inside the folder. It will choose the framework automatically, you don't need to change anything.",
-    "Fixed an issue with multiple npc pads and props spawning",
-    "Fixed all reported bugs",
-    "RSG-CoreV2 issues",
-    "Backup the old folder and use the new one all files are updated. You will need to adapt your old config to the new config in order to pass this update without errors",
-    "Check the sql file that comes inside the folder and use the updated version"
+    "Fixed the issue where the number of slots in the data could not be pulled when the server was first opened for the vorp framework and the opened inventory appeared 10 slots.",
+    "This update applies only to the fx-stash script in the folder named NEW VERSION. To use this version, if you have vorp_inventory, you need to re-download the latest version from the github link. If you get an error, your vorp_inventory is out of date.",
+    "Update all files except config.lua"
   ]
 }
