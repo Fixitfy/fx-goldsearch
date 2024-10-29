@@ -4,7 +4,7 @@
     "Rsg errors have been fixed.",
     "Fixed notification errors",
     "Fixed error in framework.lua.",
-    "Update config.lua - c folder - s folder - framework folder"
+    "Update config.lua - c folder - s folder - framework folder - fxmanifest.lua"
   ]
 }
 
