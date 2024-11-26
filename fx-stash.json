@@ -1,8 +1,8 @@
 {
-  "version": "2.1",
+  "version": "2.2",
   "changelog": [
-    "Fixed the issue where the number of slots in the data could not be pulled when the server was first opened for the vorp framework and the opened inventory appeared 10 slots.",
-    "This update applies only to the fx-stash script in the folder named NEW VERSION. To use this version, if you have vorp_inventory, you need to re-download the latest version from the github link. If you get an error, your vorp_inventory is out of date.",
-    "Update all files except config.lua"
+    "Fixed reported item limit and weapon limit issues.",
+    "Added more settings to Stashes for vorp_inventory.",
+    "Update all files"
   ]
 }
