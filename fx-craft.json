@@ -1,11 +1,10 @@
 {
   "version": "2.5",
   "changelog": [
-    "Fixed: Fixed an issue where items were deleted when trying to produce when OrderListLimit was reached.",
-    "Fixed: The system for getting items from Craft Order has been changed. You will now select an item to receive an item and you will receive as many items as you enter the entrance.",
-    "Fixed: Ui interface design updated. Transition to more beautiful and stable codes.",
-    "Updated Files ",
+    "Fixed an issue where items were deleted when trying to produce when OrderListLimit was reached.",
+    "The system for getting items from Craft Order has been changed. You will now select an item to receive an item and you will receive as many items as you enter the entrance.",
+    "Ui interface design updated. Transition to more beautiful and stable codes.",
     "You must update all files except 'config.lua'",
-    "New Image Config.DefaultImage = /ui/assets/img/craftman.png"
+    "New Image /ui/assets/img/craftman.png"
   ]
 }
