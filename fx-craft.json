@@ -3,7 +3,6 @@
   "changelog": [
     "Fixed xp issues after v2.5 updated.",
     "Now xp and level will be updated even if the book is open and you will be able to see it instantly",
-    "Ui interface design updated. Transition to more beautiful and stable codes.",
-    "Update c.lua / s.lua / main.js",
+    "Update c.lua / s.lua / main.js"
   ]
 }
