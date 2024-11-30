@@ -1,10 +1,9 @@
 {
-  "version": "2.5",
+  "version": "2.6",
   "changelog": [
-    "Fixed an issue where items were deleted when trying to produce when OrderListLimit was reached.",
-    "The system for getting items from Craft Order has been changed. You will now select an item to receive an item and you will receive as many items as you enter the entrance.",
+    "Fixed xp issues after v2.5 updated.",
+    "Now xp and level will be updated even if the book is open and you will be able to see it instantly",
     "Ui interface design updated. Transition to more beautiful and stable codes.",
-    "You must update all files except config.lua",
-    "New Image /ui/assets/img/craftman.png"
+    "Update c.lua / s.lua / main.js",
   ]
 }
