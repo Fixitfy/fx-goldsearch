@@ -1,8 +1,7 @@
 {
-  "version": "2.6",
+  "version": "2.7",
   "changelog": [
-    "Fixed xp issues after v2.5 updated.",
-    "Now xp and level will be updated even if the book is open and you will be able to see it instantly",
-    "Update c.lua / s.lua / main.js / / fxmanifest.lua"
+    "Fixed the issue of being able to receive items with no expiration time. Important update please apply.",
+    "Update main.js / style.css / fxmanifest.lua"
   ]
 }
