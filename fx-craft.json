@@ -1,7 +1,7 @@
 {
-  "version": "2.7",
+  "version": "2.8",
   "changelog": [
-    "Fixed the issue of being able to receive items with no expiration time. Important update please apply.",
-    "Update main.js / style.css / fxmanifest.lua"
+    "Fixed css issues in the ‘Weapons’ category.",
+    "Update style.css / fxmanifest.lua"
   ]
 }
