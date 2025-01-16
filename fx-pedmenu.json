@@ -1,7 +1,8 @@
 {
-  "version": "1.7",
+  "version": "1.8",
   "changelog": [
-      "Fixed Ped Health Problem",
-      "Update c/c.lua"
+      "Fixed ped dying after changing ped",
+      "Update c/c.lua and fxmanifest.lua",
+      "A new interface is being designed for FX-Pedmenu v2 version, \nit will be a more professional and controllable ped management system in the book in accordance with the fixitfy theme. \nYou will be able to select the default ped so that your pad will not change when you enter and exit the game."
   ]
 }
