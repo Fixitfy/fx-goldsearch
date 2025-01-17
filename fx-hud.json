@@ -1,7 +1,8 @@
 {
-  "version": "2.9",
+  "version": "3.0",
   "changelog": [
-    "Fixed an issue where stamina would decrease too late while on a horse.",
-    "Update c/c.lua and fxmanifest.lua"
+    "Compatible with new vorp updates.",
+    "update all files except consumables.lua",
+    "See Fixitfy discord update channel for detailed information"
   ]
 }
