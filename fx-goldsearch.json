@@ -1,7 +1,12 @@
 {
-  "version": "1.4",
+  "version": "1.5",
   "changelog": [
-    "Fixed annoying text on the console. It will no longer spam..",
-    "Update c/c.lua"
+    "- Fixed the issue of not being able to interact with tables when you enter and exit.",
+    "- Fixed all known issues.",
+    "- Added water level.",
+    "- The table delete query has been detailed.",
+    "- All files have been renewed",
+    "- Update all files",
+    "Back up the old folder and use the new downloaded folder. You can move your Config.SearchLocation table directly to the new folder, do not pass any settings other than that, edit the new file."
   ]
 }
