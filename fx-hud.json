@@ -1,8 +1,7 @@
 {
-  "version": "3.0",
+  "version": "3.1",
   "changelog": [
-    "Compatible with new vorp updates.",
-    "update all files except consumables.lua",
-    "See Fixitfy discord update channel for detailed information"
+    "Fixed the issue of not being able to use items for rsgv2 after the last update.",
+    "update fxmanifest.lua/c.lua/s.lua/frameworks.lua"
   ]
 }
