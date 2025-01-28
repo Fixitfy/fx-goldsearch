@@ -4,6 +4,7 @@
       "The interface has been updated. Those who do not want to use the new interface should not update their html files.",
       "Fixed an issue where you would fall to the ground when you start an animation.",
       "Update c/c.lua",
+      "Update fxmanifest.lua",
       "Update ui folder"
   ]
 }
