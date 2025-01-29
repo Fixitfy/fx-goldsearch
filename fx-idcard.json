@@ -1,8 +1,7 @@
 {
-  "version": "1.2",
+  "version": "1.3",
   "changelog": [
-    "Fixed All Issues.",
-    "Update All Files",
-    "Please download it from releases section on https://github.com/Fixitfy/FX-Idcard to make it smooth."
+    "Fixed: You do not have a passport photo.",
+    "Update all files except config.lua"
   ]
 }
