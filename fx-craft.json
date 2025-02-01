@@ -1,7 +1,7 @@
 {
-  "version": "2.8",
+  "version": "2.9",
   "changelog": [
-    "Fixed css issues in the ‘Weapons’ category.",
-    "Update style.css / fxmanifest.lua"
+    "The locale string error on the server side when taking weapons has been fixed.",
+    "Update config.lua Locale function and fxmanifest.lua"
   ]
 }
