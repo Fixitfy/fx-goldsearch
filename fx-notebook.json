@@ -1,9 +1,7 @@
 {
   "version": "3.0",
   "changelog": [
-    "Injecting malicious code is prevented.",
-    "Please make this update urgently.",
-    "If you know of any other bugs, please let us know via discord.",
-    "Update all files"
+    "Fixed the book not being deleted issue for vorp framework.",
+    "Update frameworks.lua / s.lua/ c.lua / main.js"
   ]
 }
